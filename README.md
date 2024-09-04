@@ -27,10 +27,11 @@ The code for each phase is organized in separate directories: `Phase1`, `Phase2`
      ./utms.out </path/to/majors/file> </path/to/students/file> </path/to/courses/file> </path/to/professors/file>
 
      ```
-     example:
-       ```bash
+     -example:
+
+   ```bash
    ./utms.out ./majors.csv ./students.csv ./courses.csv ./professors.csv
-       ```
+   ```
    
     -Phase 3: After running the program, open a web browser and navigate to http://localhost:8080 
 
